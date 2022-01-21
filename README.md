@@ -10,6 +10,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 | titolo | Cutman | url |
 | titolo | Gutsman | url |
 | titolo | Fireman | url |
+| titolo | Bombman | url |
+| titolo | Elecman | url |
 
 ## Docenti
 |   | Nome | Corso | Team | Url |
