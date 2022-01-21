@@ -58,6 +58,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
 |![](./data/keylasofia/keylasofia.jpg)| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
 |![](./data/GianlucaTradii/GianlucaTradiifotoprofilo.jpg) | Gianluca Tradii | Concept Art | Gutsman | [GitHub](https://github.com/GianlucaTradii) </br> [Instagram](https://www.instagram.com/gianlucaiid_art/)|
+|![](./data/IlariaScalia/ila.jpg) | Ilaria Scalia | Concept Art | Gutsman | [GitHub](https://github.com/lilikoii)
+>>>>>>> e071941f06b8c352b6eba0b40f4df799bbc65e78
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
