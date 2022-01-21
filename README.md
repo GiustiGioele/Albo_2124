@@ -48,8 +48,13 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 |![](./data/MattiaMonteduro/MattiaMonteduro.jpg)| Mattia Monteduro | Concept Art | Team Bombman | [GitHub](https://github.com/MattiaMonteduro)|
 |![]()| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
+<<<<<<< HEAD
 |![](./data/AlessioRuggeri/AlessioRuggeri.jpg) | Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
+|![](./data/lorenzovalente/lorenzovalente.jpg) | Lorenzo Valente | Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
+=======
+|![]("C:\Users\aleru\Documents\GitHub\Albo_2124\data\AlessioRuggeri\AlessioRuggeri.jpg") | Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
 
+>>>>>>> 91cdf30a862f26e6987b6de0fd9661bc3749c179
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
@@ -58,3 +63,4 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
 |![](./data/MarcoGazzaniga/Marco_Gazzaniga.jpg) | Marco Gazzaniga | 3D Game Art | BombMan | [GitHub](https://github.com/MarcoGazzaniga)
+|![](./data/ContiAsiaLara/ContiAsiaLara.jpg) | Conti Asia Lara Giovanna | 3D Game Art | Gutsman | [GitHub](https://github.com/ContiAsiaLara)
