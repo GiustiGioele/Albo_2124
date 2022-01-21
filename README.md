@@ -50,7 +50,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]()| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
 |![](./data/AlessioRuggeri/AlessioRuggeri.jpg)| Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
 |![](./data/AlessioRuggeri/AlessioRuggeri.jpg)| Daniele Aragona| Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
-
+|![](./data/lorenzovalente/lorenzovalente.jpg)| Lorenzo Valente| Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
