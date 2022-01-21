@@ -23,7 +23,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |:---:|---|---|---|---|
 |![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
 |![]() | Marco Chechi | Programming | team Cutman | [Github](https://github.com/Licantropo5)|
-|![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
+|![](./data/LucaGunnella/Gunnella.jpg) | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
 
@@ -47,9 +47,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 |![](./data/MattiaMonteduro/MattiaMonteduro.jpg)| Mattia Monteduro | Concept Art | Team Bombman | [GitHub](https://github.com/MattiaMonteduro)|
-|![]()| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
+|![](./data/ClaudioZappi/ClaudioZappi.jpg)| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
 |![](./data/AlessioRuggeri/AlessioRuggeri.jpg)| Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
-
+|![](./data/Daniele Aragona/daniele aragona.png)| Daniele Aragona| Concept Art | Gutsman | [GitHub](https://github.com/DanieleAragona)|
+|![](./data/lorenzovalente/lorenzovalente.jpg)| Lorenzo Valente| Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
+|![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
