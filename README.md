@@ -62,6 +62,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/keylasofia/keylasofia.jpg)| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
 |![](./data/GianlucaTradii/GianlucaTradiifotoprofilo.jpg) | Gianluca Tradii | Concept Art | Gutsman | [GitHub](https://github.com/GianlucaTradii) </br> [Instagram](https://www.instagram.com/gianlucaiid_art/)|
 |![](./data/IlariaScalia/ila.jpg) | Ilaria Scalia | Concept Art | Gutsman | [GitHub](https://github.com/lilikoii)
+![](./data/ChiaraVincenti/Illustration.jpg) | Chiara Vincenti | Concept Art | Gutsman | [GitHub](https://github.com/Souuroma)
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
