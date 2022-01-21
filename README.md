@@ -40,7 +40,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini | Game Design | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
 |![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini | Game Design | Bombman | [GitHub](https://github.com/BelethThynemenos)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
-|![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | | Game Design | | FireMan | [GitHub](https://github.com/Hemsey7)|
+|![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/LorenzoPirrone/LorenzoPirrone.jpg) | Lorenzo Pirrone | Bombman | [GitHub](https://github.com/lorenzopirrone)|
 |![](./data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi | Game Design | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
