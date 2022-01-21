@@ -47,6 +47,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 |![]()| Mattia Monteduro | Concept Art | Team Bombman | [GitHub](https://github.com/MattiaMonteduro)|
+|![](./data/IlariaScalia/ila.jpg) | Ilaria Scalia | Concept Art | Gutsman | [GitHub](https://github.com/lilikoii)
 
 
 
