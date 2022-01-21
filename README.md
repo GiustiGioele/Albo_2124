@@ -72,7 +72,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/IlariaScalia/ila.jpg) | Ilaria Scalia | Concept Art | Gutsman | [GitHub](https://github.com/lilikoii)
 ![](./data/ChiaraVincenti/Illustration.jpg) | Chiara Vincenti | Concept Art | Gutsman | [GitHub](https://github.com/Souuroma)
 |![](./data/Martinagramegna/MartinaGramegna.jpg) | martina gramegna | concept art | Gutsman | [GitHub](https://github.com/skeletrin14) 
-
+|![]()| Giorgia Petito | Concept Art | team Fireman | [GitHub](https://github.com/Giorgia-Petito)|
 
 
 
