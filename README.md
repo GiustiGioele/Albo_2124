@@ -7,7 +7,9 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Progetti
 | Titolo | Team | Repo |
 |---|---|---|
-| titolo | team | url |
+| titolo | Cutman | url |
+| titolo | Gutsman | url |
+| titolo | Fireman | url |
 
 ## Docenti
 |   | Nome | Corso | Team | Url |
@@ -32,7 +34,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
-|![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
+|![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli | Game Design | Cutman | [GitHub](https://github.com/cinfa78)|
 |![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti | Game Design | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | Game Design | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini | Game Design | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
@@ -55,11 +57,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
 |![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+|![](.SilviaPecora/SilviaPecora.jpeg)| Silvia Pecora | Concept Art | Cutman | [GitHub](https://github.com/AnnyTheAnny)|
 |![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
 |![](./data/keylasofia/keylasofia.jpg)| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
 |![](./data/GianlucaTradii/GianlucaTradiifotoprofilo.jpg) | Gianluca Tradii | Concept Art | Gutsman | [GitHub](https://github.com/GianlucaTradii) </br> [Instagram](https://www.instagram.com/gianlucaiid_art/)|
 |![](./data/IlariaScalia/ila.jpg) | Ilaria Scalia | Concept Art | Gutsman | [GitHub](https://github.com/lilikoii)
->>>>>>> e071941f06b8c352b6eba0b40f4df799bbc65e78
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
@@ -69,4 +71,5 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
 |![](./data/MarcoGazzaniga/Marco_Gazzaniga.jpg) | Marco Gazzaniga | 3D Game Art | BombMan | [GitHub](https://github.com/MarcoGazzaniga)
 |![](./data/ContiAsiaLara/ContiAsiaLara.jpg) | Conti Asia Lara Giovanna | 3D Game Art | Gutsman | [GitHub](https://github.com/ContiAsiaLara)
+|![](./data/LorenzoGiuntini/GiuntiniLorenzo.jpg) | Giuntini Lorenzo | 3D Game Art | Gutsman | [GitHub](https://github.com/GiuntiniLorenzo)
 |![](./data/AlessioMuller/AlessioMuller.jpg) | Alessio Muller | 3D Game Art | Fireman | [GitHub](https://github.com/alessioMuller)
