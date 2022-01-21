@@ -55,6 +55,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
 |![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
 |![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
+|![]()| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub]()|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
