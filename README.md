@@ -76,7 +76,11 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 >>>>>>> Stashed changes
 =======
 |![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+<<<<<<< HEAD
 >>>>>>> cabe5b369f046279903a26159ac826dfb4825257
+=======
+|![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
+>>>>>>> 8573357154f515c14e98a788734ff5bfc45229b2
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
