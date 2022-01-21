@@ -55,7 +55,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
 |![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
-|![](./data/SilviaPecora/SilviaPecora.jpg)| Silvia Pecora | Concept Art | Cutman | [GitHub](https://github.com/AnnyTheAnny)|
+|![](./data/SilviaPecora/SilviaPecora.jpeg)| Silvia Pecora | Concept Art | Cutman | [GitHub](https://github.com/AnnyTheAnny)|
 |![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
 |![](./data/keylasofia/keylasofia.jpg)| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
 |![](./data/GianlucaTradii/GianlucaTradiifotoprofilo.jpg) | Gianluca Tradii | Concept Art | Gutsman | [GitHub](https://github.com/GianlucaTradii) </br> [Instagram](https://www.instagram.com/gianlucaiid_art/)|
