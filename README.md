@@ -46,6 +46,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 =======
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
 >>>>>>> cf4d1be49406cc8f248b5c5a36372ef726631d8a
+|![]()| Giorgia Petito | Concept Art | team Fireman | [GitHub](https://github.com/Giorgia-Petito)|
 
 
 ## 3D Game Art
