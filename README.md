@@ -37,7 +37,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | Davide Gioan | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
-|![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | Game Design | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini | Game Design | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
 |![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini | Game Design | Bombman | [GitHub](https://github.com/BelethThynemenos)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
