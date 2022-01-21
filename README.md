@@ -52,6 +52,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/Daniele Aragona/daniele aragona.png)| Daniele Aragona| Concept Art | Gutsman | [GitHub](https://github.com/DanieleAragona)|
 |![](./data/lorenzovalente/lorenzovalente.jpg)| Lorenzo Valente| Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
 |![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
+|![](./data/LorenzoGrimaldi/Lorenzo Grimaldi.jpg) | Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
