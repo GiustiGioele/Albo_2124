@@ -31,6 +31,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
 |![](./data/TommasoPetrini/Profilo.jpg)| Tommaso Petrini | Programming | Team Gutsman | [GitHub](https://github.com/Torch63)|
+|![]()| Ivan Imbriani| Programming | Team Fireman | [GitHub](https://github.com/IvanImbriani)|
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
