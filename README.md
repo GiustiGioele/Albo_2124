@@ -53,7 +53,8 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/lorenzovalente/lorenzovalente.jpg)| Lorenzo Valente| Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
 |![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
-|![](./data/LorenzoGrimaldi/lorenzogrimaldi.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+|![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+|![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
@@ -63,3 +64,4 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
 |![](./data/MarcoGazzaniga/Marco_Gazzaniga.jpg) | Marco Gazzaniga | 3D Game Art | BombMan | [GitHub](https://github.com/MarcoGazzaniga)
 |![](./data/ContiAsiaLara/ContiAsiaLara.jpg) | Conti Asia Lara Giovanna | 3D Game Art | Gutsman | [GitHub](https://github.com/ContiAsiaLara)
+|![](./data/AlessioMuller/AlessioMuller.jpg) | Alessio Muller | 3D Game Art | Fireman | [GitHub](https://github.com/alessioMuller)
