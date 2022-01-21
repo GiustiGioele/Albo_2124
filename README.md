@@ -26,18 +26,18 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![]() | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
-|![](./data/TommasoPetrini/Profilo.jpg)| Tommaso Petrini | Programming | Team Gutsman | [GitHub](https://github.com/Torch63)|
-|![]()| Ivan Imbriani| Programming | Team Fireman | [GitHub](https://github.com/IvanImbriani)|
+|![](./data/TommasoPetrini/Tommaso.jpg)| Tommaso Petrini | Programming | Team Gutsman | [GitHub](https://github.com/Torch63)|
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
 |![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
 |![](./data/AndreaCianfanelli/Cinfa.jpg) | Andrea Cianfanelli |  | Cutman | [GitHub](https://github.com/cinfa78)|
+|![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini |  | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti |  | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini |  | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
 |![](./data/FrancescoNannini/NanniniFrancesco.jpg) | Francesco Nannini |  | Bombman | [GitHub](https://github.com/BelethThynemenos)|
-|![](./data/LorenzoPirrone/LorenzoPirrone.jpg) | Lorenzo Pirrone | Game Design | Bombman | [GitHub](https://github.com/lorenzopirrone)|
+|![](./data/LorenzoPirrone/LorenzoPirrone.jpg) | Lorenzo Pirrone | Bombman | [GitHub](https://github.com/lorenzopirrone)|
 |![](./data/AndreaVanghi/AndreaVanghi.jpg) | Andrea Vanghi | Game Design | Gutsman | [GitHub](https://github.com/VanghiAndrea)|
 
 ## Concept Art
