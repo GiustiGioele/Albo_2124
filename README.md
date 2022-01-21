@@ -44,7 +44,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 <<<<<<< HEAD
 |![](./data/MatildaGori/MatildaGori.jpg) | Matilda Gori | Concept Art | Fireman | [GitHub](https://github.com/MatildaGori) </br> [ArtStation](https://www.artstation.com/uf12bbec5)|
 |![](./data/AlbertoBandini/cropped.jpg) | nome cognome | Concept Art | team name | [GitHub](https://github.com/zeboo-svg)|
-|![](./data/Eleonora Guidi/EleonoraGuidi.jpg) | Eleonora Guidi | Concept Art | Cutman | [GitHub] (https://github.com/astralraindrop)|
+|![](./data/Eleonora Guidi/EleonoraGuidi.jpg) | Eleonora Guidi | Concept Art | Cutman | [GitHub](https://github.com/astralraindrop)| 
 
 
 ## 3D Game Art
