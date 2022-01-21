@@ -26,7 +26,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Programming
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | nome cognome | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
+|![](./data/AlessioBolognesi/AlessioBolognesi.jpg) | Alessio Bolognesi | Programming | team name | [GitHub](https://github.com/Bolognesi-Alessio)|
 |![]() | Marco Chechi | Programming | team Cutman | [Github](https://github.com/Licantropo5)|
 |![](./data/LucaGunnella/Gunnella.jpg) | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
