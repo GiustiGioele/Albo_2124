@@ -70,8 +70,6 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/Martinagramegna/MartinaGramegna.jpg) | martina gramegna | concept art | Gutsman | [GitHub](https://github.com/skeletrin14) 
 |![]()| Giorgia Petito | Concept Art | team Fireman | [GitHub](https://github.com/Giorgia-Petito)|
 
->>>>>>> cf4d1be49406cc8f248b5c5a36372ef726631d8a
-|![]()| Giorgia Petito | Concept Art | team Fireman | [GitHub](https://github.com/Giorgia-Petito)|
 
 
 ## 3D Game Art
