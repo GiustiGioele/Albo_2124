@@ -63,6 +63,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/lorenzovalente/lorenzovalente.jpg)| Lorenzo Valente| Concept Art | Gutsman | [GitHub](https://github.com/fendraw)|
 |![](./data/EleonoraGuidi/EleonoraGuidi.jpg)| Eleonora Guidi| Concept Art | Cutman |[GitHub](https://github.com/astralraindrop)|
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
+<<<<<<< HEAD
 |![](./)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
 >>>>>>> f7e802bb6aed249d9f3f601627e52875ebc58297
 =======
@@ -73,6 +74,9 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/LorenzoGrimaldi/lorenzogrimaldi.jpg) | Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
 >>>>>>> f3410fa048a80abbebc862c7865591eb757aa82a
 >>>>>>> Stashed changes
+=======
+|![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
+>>>>>>> cabe5b369f046279903a26159ac826dfb4825257
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
