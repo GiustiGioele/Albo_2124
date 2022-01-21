@@ -47,8 +47,9 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ![]()| Michele Gabrielli | Concept Art | Team Bombman | [GitHub](https://github.com/MicheleGabrielli)|
 |![]()| Lorenzo Ferraina | Concept Art | Team Elecman | [GitHub](https://github.com/Lorenzo-Ferraina)|
 |![](./data/MattiaMonteduro/MattiaMonteduro.jpg)| Mattia Monteduro | Concept Art | Team Bombman | [GitHub](https://github.com/MattiaMonteduro)|
-|![](./data/ClaudioZappi/ClaudioZappi.jpg)| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
-|![]("C:\Users\aleru\Documents\GitHub\Albo_2124\data\AlessioRuggeri\AlessioRuggeri.jpg"g) | Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
+|![]()| Claudio Zappi | Concept Art | Team Fireman | [GitHub](https://github.com/Claudio-Zappi)|
+|![](./data/AlessioRuggeri/AlessioRuggeri.jpg)| Alessio Ruggeri | Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
+|![](./data/AlessioRuggeri/AlessioRuggeri.jpg)| Daniele Aragona| Concept Art | Gutsman | [GitHub](https://github.com/AlessioRuggeri5)|
 
 
 ## 3D Game Art
@@ -58,3 +59,4 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | nome cognome | 3D Game Art | team name | [GitHub](https://github.com/cipincipancake)
 |![](./data/BenedettaBaccari/BenedettaBaccari.jpg) | Matteo Ledda | 3D Game Art | BombMan | [GitHub](https://github.com/MatteoLedda)
 |![](./data/MarcoGazzaniga/Marco_Gazzaniga.jpg) | Marco Gazzaniga | 3D Game Art | BombMan | [GitHub](https://github.com/MarcoGazzaniga)
+|![](./data/ContiAsiaLara/ContiAsiaLara.jpg) | Conti Asia Lara Giovanna | 3D Game Art | Gutsman | [GitHub](https://github.com/ContiAsiaLara)
