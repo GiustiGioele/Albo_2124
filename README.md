@@ -26,6 +26,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/LucaGunnella/Gunnella.jpg) | Luca Gunnella | Programming | team bomberman | [GitHub](https://github.com/LucaGunnella)|
 |![]() | Leonardo Martelli | Programming | Team Elecman | [GitHub](https://github.com/LeonardoMartelli-coba)|
 |![]()| Moreno Melis| Programming | Team Fireman | [GitHub](https://github.com/MorenoMelis)|
+|![]()| Tommaso Petrini | Programming | Team Gutsman | [GitHub](https://github.com/Torch63)|
 
 ## Game Design
 |   | Nome | Corso | Team | Url |
@@ -55,7 +56,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 |![](./data/RobertaVainella/11111.jpg)| Roberta Vainella | Concept Art | Gutsman | [GitHub](https://github.com/RobertaVainella)|
 |![](./data/LorenzoGrimaldi/lorenzoo.jpg)| Lorenzo Grimaldi | Concept Art | Cutman | [GitHub](https://github.com/Disappointmentcream)|
 |![](./data/MartinaSantomarco/martina-santomarco.jpg)| Martina Santomarco| Concept Art | Fireman |[GitHub](https://github.com/Leyrime)|
-|![](./data/keylasofia/keylasofia.jpg)| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
+|![]()| Keyla Sofia Calle Sierra| Concept Art | Team Bombman |[GitHub](https://github.com/keylasofia)|
 
 ## 3D Game Art
 |   | Nome | Corso | Team | Url |
