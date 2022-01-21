@@ -36,7 +36,7 @@ NB: che le immagini siano tutte JPG di dimensione massima 256x256
 ## Game Design
 |   | Nome | Corso | Team | Url |
 |:---:|---|---|---|---|
-|![](./data/DavideGioan/DavideGioan.jpg) | nome cognome | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
+|![](./data/DavideGioan/DavideGioan.jpg) | Davide Gioan | Game Design | team name | [GitHub](https://github.com/GioanDavide)|
 |![](./data/AlbertoSargenti/AlbertoSargentiAvatar.jpg) | Alberto Sargenti | Game Design | FireMan | [GitHub](https://github.com/AlbertoSargenti)|
 |![](./data/LuigiGrassini/LuigiGrassiniFoto.jpg) | Luigi Grassini | Game Design | FireMan | [GitHub](https://github.com/Hemsey7)|
 |![](./data/FrancescoPieruccini/FrancescoPieruccini.jpg) | Francesco Pieruccini | Game Design | GutsMan | [GitHub](https://github.com/FrancescoPieruccini)|
